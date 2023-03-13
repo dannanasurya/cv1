@@ -1,0 +1,33 @@
+body {
+    background-color:cornflowerblue;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 2%;
+}
+/*
+h3{
+    text-align: center;
+    color: aquamarine;
+}*/
+#heading{
+    text-align:center;
+    color: aqua;
+
+}
+h2{
+    color: aquamarine;
+}
+a{
+    color: black;
+}
+em{
+    color: blue;
+}
+img :hover {
+    border-radius: 100%;
+}
+.circular{
+    border-radius: 180%;
+}
